@@ -1,0 +1,98 @@
+{
+      "fr6" : {
+        "lang" : "fr",
+        "pitch" : "50",
+        "speed" : "150",
+        "voice_id" : "6",
+        "volume":2
+    },
+    
+    "fr5" : {
+        "lang" : "fr",
+        "pitch" : "55",
+        "speed" : "125",
+        "voice_id" : "5",
+        "volume":2
+
+    },
+
+  
+
+    "fr1" : {
+        "lang" : "fr",
+        "pitch" : "55",
+        "speed" : "130",
+        "voice_id" : "1",
+        "volume":2
+    },
+
+    "fr2" : {
+        "lang" : "fr",
+        "pitch" : "45",
+        "speed" : "140",
+        "voice_id" : "2",
+        "volume":2
+    },
+
+    "fr3" : {
+        "lang" : "fr",
+        "pitch" : "40",
+        "speed" : "140",
+        "voice_id" : "3",
+        "volume":2
+    },
+
+    "fr4" : {
+        "lang" : "fr",
+        "pitch" : "40",
+        "speed" : "140",
+        "voice_id" : "4",
+        "volume":2
+    },
+
+
+    "fr7" : {
+        "lang" : "fr",
+        "pitch" : "20",
+        "speed" : "160",
+        "voice_id" : "7",
+        "volume":2
+    },
+
+    "en1" : {
+        "lang" : "en",
+        "pitch" : "40",
+        "speed" : "130",
+        "voice_id" : "1",
+        "volume":2
+    },
+    
+    "us2" : {
+        "lang" : "us",
+        "pitch" : "50",
+        "speed" : "150",
+        "voice_id" : "2",
+        "volume":2
+    },
+
+    "us1" : {
+        "lang" : "us",
+        "pitch" : "50",
+        "speed" : "130",
+        "voice_id" : "1",
+        "volume":2
+    },
+
+    
+
+    "us3" : {
+        "lang" : "us",
+        "pitch" : "58",
+        "speed" : "127",
+        "voice_id" : "3",
+        "volume":2
+    }
+    
+   
+   
+}

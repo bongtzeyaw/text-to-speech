@@ -1,0 +1,13 @@
+{
+	"indicatif": "SCFRE6",
+	"langage":"FR",
+    "niveau":{
+        "type":"descente",
+        "valeur":"050"
+    },
+    "vitesse":{
+        "type":"reduction",
+        "valeur":"310",
+        "unit":"knots"
+    }
+}

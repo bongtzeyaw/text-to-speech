@@ -1,0 +1,9 @@
+{
+	"indicatif": "QWLXM",
+	"langage":"EN",
+	"vitesse": {
+		"type": "minimum",
+		"valeur": "245",
+		"unit": "knots"
+	}
+}

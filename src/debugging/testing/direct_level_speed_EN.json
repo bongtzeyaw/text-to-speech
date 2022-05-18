@@ -1,0 +1,14 @@
+{
+	"indicatif": "DAHSZ",
+	"langage":"EN",
+    "niveau":{
+        "type":"montee",
+        "valeur":"190"
+    },
+    "vitesse":{
+        "type":"indiquee",
+        "valeur":"256",
+        "unit":"knots"
+    },
+    "directe":"FISTO PERIG DIBAG"
+}

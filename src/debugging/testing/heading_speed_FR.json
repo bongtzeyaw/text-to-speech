@@ -1,0 +1,14 @@
+{
+	"indicatif": "DVRJM",
+	"langage":"FR",
+	"cap": {
+		"type": "continu",
+		"valeur": "04",
+		"orientation": "droite"
+    },
+    "vitesse":{
+        "type":"maximum",
+        "valeur":"0.76",
+        "unit":"mach"
+    }
+}

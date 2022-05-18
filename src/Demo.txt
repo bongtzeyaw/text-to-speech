@@ -1,0 +1,23 @@
+# This file will explain the additional arguments that can be added to the command line, to perform specfic functions
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py -h 
+
+Lis le fichier heading_EN (-sp), enregistre le fichier audio (-sf heading_EN_aud) et enregistre le dictionaire (-sd session_1)
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py heading_EN -sp -sf heading_EN_aud -sd session1
+
+Lis le fichier level_EN (-sp), en utilisant le dictionaire session 1 (-l session1), et en enregistrant le même dictionaire (-k).
+La voix est la même puisque l'indicatif de level_EN est le même que celui de heading_EN.
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py level_EN -sp -l session1 -k
+
+Lis le fichier heading_level_speed_FR (-sp), en forçant l'usage de l'anglais (-en), en utilisant le dictionaire session 1 (-l session1), en enregistrant un nouveau dictionnaire (-sd session_1_bis), en insérant une error de collationnement avec une probabilité 0,5 (-e 0.5).
+L'indicatif de heading_level_speed_FR est différent de celui des précédents.
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py heading_level_speed_FR -sp -en -l session1 -sd session_1_bis -e 0.5
+ 
+Lecture de deux autres fichiers pour montrer les différentes voix:
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py frequency_EN -sp -l session_1_bis -k
+
+/usr/bin/python3 /home/duboislo/Documents/TTS/Code/use_session/main_session.py speed_level_FR -sp -l session_1_bis -k

@@ -1,0 +1,16 @@
+{
+	"indicatif": "AFRHW",
+	"langage":"FR",
+	"cap": {
+
+    },
+    "niveau":{
+        "type":"montee",
+        "valeur":"260"
+    },
+    "vitesse":{
+        "type":"maximum",
+        "valeur":"0.8",
+        "unit":"mach"
+    }
+}

@@ -1,0 +1,19 @@
+{
+	"indicatif": "BERTY",
+	"langage":"EN",
+	"cap": {
+		"type": "absolu",
+		"valeur": "300",
+		"orientation": "gauche"
+    },
+    "niveau":{
+        "type":"montee",
+        "valeur":"100"
+    },
+    "vitesse":{
+        "type":"maximum",
+        "valeur":"0.8",
+        "unit":"mach"
+    }
+}
+

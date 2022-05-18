@@ -1,0 +1,18 @@
+{
+	"indcatif": "AFRHW",
+	"langage":"FR",
+	"cap": {
+		"type": "absolu",
+		"valeur": "267",
+		"orientation": "gauche"
+    },
+    "niveau":{
+        "type":"montee",
+        "valeur":"260"
+    },
+    "vitesse":{
+        "type":"maximum",
+        "valeur":"0.8",
+        "unit":"mach"
+    }
+}

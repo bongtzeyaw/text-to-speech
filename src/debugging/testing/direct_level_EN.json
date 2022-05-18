@@ -1,0 +1,9 @@
+{
+	"indicatif": "AFRHW",
+	"langage":"EN",
+    "niveau":{
+        "type":"descente",
+        "valeur":"080"
+    },
+    "directe":"FISTO PERIG DIBAG"
+}

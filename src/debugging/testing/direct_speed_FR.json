@@ -1,0 +1,10 @@
+{
+	"indicatif": "NTNYP",
+	"langage":"FR",
+    "vitesse":{
+        "type":"augmentation",
+        "valeur":"0.89",
+        "unit":"mach"
+    },
+    "directe":"FISTO PERIG DIBAG"
+}

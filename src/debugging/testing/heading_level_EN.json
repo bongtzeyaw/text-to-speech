@@ -1,0 +1,13 @@
+{
+	"indicatif": "DAHKR",
+	"langage":"EN",
+	"cap": {
+		"type": "relatif",
+		"valeur": "123",
+		"orientation": "gauche"
+    },
+    "niveau":{
+        "type":"montee",
+        "valeur":"240"
+    }
+}
